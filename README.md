@@ -1,2 +1,4 @@
 # CodePicture-So-Beautiful
-CodePicture-So Beautiful.
+CodingPicture-So Beautiful.
+
+By Samboo.
